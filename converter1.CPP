@@ -2,7 +2,7 @@
 #include <conio>
 void terbilang (int b);
 void satuan (int a);
-
+/* wihhhh gaull anjir ajarin aku dong hehehehehe */
 int main()
 {
 	int nilai;
